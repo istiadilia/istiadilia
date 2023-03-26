@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Isti.
+
+- 🔭 I’m currently a 3rd year undergraduate student at university
+- 🌱 Currently I put interest on product and android development
+- 😄 Pronouns: She/Her
