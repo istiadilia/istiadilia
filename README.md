@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Isti 👋
 
 <!--
 **istiadilia/istiadilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Isti.
-
-- 🔭 I’m currently a 3rd year undergraduate student at university
-- 🌱 Currently I put interest on product and android development
+- 🔭 A third year undergraduate computer science student at university
+- 🌱 Currently put interest on product and android development
 - 😄 Pronouns: She/Her
 
 <!--
